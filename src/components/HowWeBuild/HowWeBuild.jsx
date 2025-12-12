@@ -56,7 +56,7 @@ export default function HowWeBuild() {
             </p>
           </div>
 
-          <div className="flex flex-col lg:flex-row items-center gap-12">
+          <div className="flex flex-col lg:flex-row items-center gap-12 relative">
             
             <div className="w-full lg:w-2/3 bg-[#0d2a2a] rounded-[3rem] p-8 md:p-12">
               <div className="grid md:grid-cols-2 gap-x-12 gap-y-12">
@@ -74,7 +74,7 @@ export default function HowWeBuild() {
               </div>
             </div>
 
-            <div className="w-full lg:w-1/3 flex justify-center">
+            <div className="w-full lg:w-1/3 flex justify-center absolute">
               <img 
                 src={Illustation}
                 alt="Cute 3D Robot giving a thumbs up" 

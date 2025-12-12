@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vladdarkapple2007.github.io/Emdula-work-test",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
